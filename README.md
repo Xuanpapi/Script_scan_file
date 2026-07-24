@@ -15,7 +15,7 @@ Một công cụ viết bằng Python giúp mày quét tìm kiếm file theo tê
 
 ## Mẹo nhỏ khi nhập đường dẫn tìm kiếm
     -Đường dẫn càng chi tiết càng tốt
-    -Nếu muốn quét cả Ổ thì cú pháp :ví dụ C:\ hoặc E:\ vv
+    -Nếu muốn quét cả Ổ thì cú pháp là:ví dụ C:\ hoặc E:\ vv
     
 ---
 
