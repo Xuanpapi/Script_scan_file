@@ -23,5 +23,4 @@ Một công cụ viết bằng Python giúp mày quét tìm kiếm file theo tê
 
 ### 1. Clone repo về máy
 ```bash
-git clone [https://github.com/TEN_GITHUB_CUA_MAY/ten-tool-cua-may.git](https://github.com/TEN_GITHUB_CUA_MAY/ten-tool-cua-may.git)
-cd ten-tool-cua-may
+git clone https://github.com/Xuanpapi/Script_scan_file.git
